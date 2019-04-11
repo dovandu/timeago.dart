@@ -5,6 +5,8 @@ import 'package:timeago/src/messages/lookupmessages.dart';
 Map<String, LookupMessages> _lookupMessagesMap = {
   'en': EnMessages(),
   'en_short': EnShortMessages(),
+  'vi': ViMessages(),
+  'vi_short': ViShortMessages(),
   'es': EsMessages(),
   'es_short': EsShortMessages(),
 };
